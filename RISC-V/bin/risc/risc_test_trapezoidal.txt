@@ -1,0 +1,47 @@
+bbl loader
+Result of numerical integration with trapezoidal rule : 1688.511351
+Result of numerical integration with trapezoidal rule : 18252.318158
+Result of numerical integration with trapezoidal rule : 528.545947
+Result of numerical integration with trapezoidal rule : 90999.034363
+Result of numerical integration with trapezoidal rule : 5952066918.055379
+Result of numerical integration with trapezoidal rule : 660818330473979.375000
+Result of numerical integration with trapezoidal rule : 59.167938
+Result of numerical integration with trapezoidal rule : 208.836823
+Result of numerical integration with trapezoidal rule : 26.666748
+Result of numerical integration with trapezoidal rule : 498.671875
+Result of numerical integration with trapezoidal rule : 338047.415771
+Result of numerical integration with trapezoidal rule : 346503986.657867
+Result of numerical integration with trapezoidal rule : 297.095413
+Result of numerical integration with trapezoidal rule : 1486.970749
+Result of numerical integration with trapezoidal rule : 123.334229
+Result of numerical integration with trapezoidal rule : 4709.453125
+Result of numerical integration with trapezoidal rule : 25679948.433838
+Result of numerical integration with trapezoidal rule : 269660060526.091156
+Result of numerical integration with trapezoidal rule : 215.427475
+Result of numerical integration with trapezoidal rule : 1232.633926
+Result of numerical integration with trapezoidal rule : 86.667480
+Result of numerical integration with trapezoidal rule : 4138.781250
+Result of numerical integration with trapezoidal rule : 25336771.018066
+Result of numerical integration with trapezoidal rule : 269313075481.933289
+Result of numerical integration with trapezoidal rule : 3905.359851
+Result of numerical integration with trapezoidal rule : 37445.745971
+Result of numerical integration with trapezoidal rule : 1302.025960
+Result of numerical integration with trapezoidal rule : 176800.942688
+Result of numerical integration with trapezoidal rule : 10101727053.625017
+Result of numerical integration with trapezoidal rule : 1103334466741927.750000
+D$ Bytes Read:            6448884
+D$ Bytes Written:         3273253
+D$ Read Accesses:         952605
+D$ Write Accesses:        457635
+D$ Read Misses:           256
+D$ Write Misses:          1516
+D$ Writebacks:            1424
+D$ Miss Rate:             0.126%
+I$ Bytes Read:            10159566
+I$ Bytes Written:         0
+I$ Read Accesses:         3595110
+I$ Write Accesses:        0
+I$ Read Misses:           179
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.005%

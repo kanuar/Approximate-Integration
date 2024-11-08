@@ -1,0 +1,47 @@
+bbl loader
+Result of numerical integration without approximation: 1688.333363
+Result of numerical integration without approximation: 18250.866904
+Result of numerical integration without approximation: 528.533335
+Result of numerical integration without approximation: 90994.134136
+Result of numerical integration without approximation: 5951575520.524123
+Result of numerical integration without approximation: 660784124330452.250000
+Result of numerical integration without approximation: 59.166667
+Result of numerical integration without approximation: 208.833334
+Result of numerical integration without approximation: 26.666667
+Result of numerical integration without approximation: 498.666668
+Result of numerical integration without approximation: 338040.001215
+Result of numerical integration without approximation: 346499948.161776
+Result of numerical integration without approximation: 297.083335
+Result of numerical integration without approximation: 1486.916676
+Result of numerical integration without approximation: 123.333333
+Result of numerical integration without approximation: 4709.333353
+Result of numerical integration without approximation: 25678710.202905
+Result of numerical integration without approximation: 269652147092.999237
+Result of numerical integration without approximation: 215.416668
+Result of numerical integration without approximation: 1232.583342
+Result of numerical integration without approximation: 86.666667
+Result of numerical integration without approximation: 4138.666685
+Result of numerical integration without approximation: 25335540.201690
+Result of numerical integration without approximation: 269305166087.337677
+Result of numerical integration without approximation: 3905.000059
+Result of numerical integration without approximation: 37443.000450
+Result of numerical integration without approximation: 1302.000004
+Result of numerical integration without approximation: 176792.001465
+Result of numerical integration without approximation: 10100899125.670549
+Result of numerical integration without approximation: 1103277398551638.750000
+D$ Bytes Read:            557289185
+D$ Bytes Written:         335921770
+D$ Read Accesses:         87687755
+D$ Write Accesses:        48744229
+D$ Read Misses:           255
+D$ Write Misses:          1515
+D$ Writebacks:            1420
+D$ Miss Rate:             0.001%
+I$ Bytes Read:            912665050
+I$ Bytes Written:         0
+I$ Read Accesses:         309099137
+I$ Write Accesses:        0
+I$ Read Misses:           178
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
